@@ -1,4 +1,11 @@
-### Hi there 👋
+### Oi, eu sou o Paulo 👋
+
+Um pouco sobre mim:
+
+-👨🏻‍💻 Atualmente estou trabalhando como desenvolvedor front-end na empresa Lifemed com a plataforma Fluig, mas também realizo implementações back-end para consultas no banco com NodeJS.
+-📖 Estou aprendendo sobre NodeJS, ReactJS, Fluig, Cybersecurity e Inglês.
+-🆘 Procuro ajuda com Fetch para migrar a forma de consumo das requisições utilizadas no Fluig.
+-✉️ Qualquer coisa pode entrar em contato -> paulornr89@gmail.com
 
 <!--
 **paulornr89/paulornr89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
